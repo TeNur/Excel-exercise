@@ -1,4 +1,4 @@
-# Excel-exercise
+# Data analysis in Excel
 Data analysis in Excel, analysing small LAX airport operational dataset
 
 The purpose of this analysis was to analyse the data from the airport's point of view, focusing on overall operational aspect of the airport.
